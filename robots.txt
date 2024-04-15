@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap: https://animint.net/?do=sitemap
-Sitemap: https://animint.net/feed.php
+Sitemap: https://ailove.animint.net/sitemap.xml
 
 User-agent: megaindex.com
 Disallow: /
